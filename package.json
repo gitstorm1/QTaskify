@@ -1,7 +1,7 @@
 {
     "name": "qtaskify",
     "version": "0.1.0",
-    "description": "A local-first, CLI-based task manager for power users",
+    "description": "A local-first, CLI-based task manager for power users.",
     "main": "src/index.js",
     "type": "module",
     "scripts": {
